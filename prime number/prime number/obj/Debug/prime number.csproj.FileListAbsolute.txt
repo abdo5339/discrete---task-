@@ -1,0 +1,8 @@
+C:\Users\zakariamohammed\Pictures\New folder\prime number\prime number\bin\Debug\prime number.exe.config
+C:\Users\zakariamohammed\Pictures\New folder\prime number\prime number\bin\Debug\prime number.exe
+C:\Users\zakariamohammed\Pictures\New folder\prime number\prime number\bin\Debug\prime number.pdb
+C:\Users\zakariamohammed\Pictures\New folder\prime number\prime number\obj\Debug\prime number.csproj.AssemblyReference.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime number\prime number\obj\Debug\prime number.csproj.SuggestedBindingRedirects.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+C:\Users\zakariamohammed\Pictures\New folder\prime number\prime number\obj\Debug\prime number.exe
+C:\Users\zakariamohammed\Pictures\New folder\prime number\prime number\obj\Debug\prime number.pdb
